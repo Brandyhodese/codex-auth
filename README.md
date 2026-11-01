@@ -101,7 +101,7 @@ codex-auth list --skip-api
 
 | Command | Description |
 |---------|-------------|
-| [`codex-auth app [--id <id>] [--codex-cli-path <path>]`](./docs/commands/app.md) | Experimental: launch Codex App with detected defaults, CODEX_HOME, CODEX_CLI_PATH, and platform overrides |
+| [`codex-auth app [--id <id>] [--codex-cli-path <path>]`](./docs/commands/app.md) | Experimental: start the Codex App using detected defaults, CODEX_HOME, CODEX_CLI_PATH, and platform-specific overrides |
 
 Support seamless account switching including:
 
